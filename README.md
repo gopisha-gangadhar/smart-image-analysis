@@ -23,6 +23,13 @@ This project performs basic image processing and computer vision tasks on an inp
 - OpenCV
 - Haar Cascade Classifier
 
+## Haar Cascade Model
+
+The face detection model used in this project is the Haar Cascade classifier provided by OpenCV.
+
+Source:
+https://github.com/opencv/opencv/tree/master/data/haarcascades
+
 ## Project Structure
 
 ```text
